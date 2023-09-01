@@ -34,10 +34,6 @@ LuckyD20 is a simple .NET console project created with the purpose of helping yo
 
 Contributions are welcome! If you wish to improve this project, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 This project was created by [Beatriz Friso](https://github.com/beatrizfriso).
