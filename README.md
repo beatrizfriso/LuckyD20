@@ -1,5 +1,7 @@
 # LuckyD20 - The Lucky Dice Roller
 
+<img align="right" alt="GIF" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.giphy.com/media/fZDvW2dkJG4zjiu70b/giphy.gif)" /> 
+
 LuckyD20 is a simple .NET console project created with the purpose of helping you better understand how methods work in C# and to enhance your programming skills. This project provides a fun way to roll a 20-sided dice and receive wishes of good luck.
 
 ## How to Use
